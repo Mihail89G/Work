@@ -1,0 +1,33 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px auto;
+}
+td{
+    border: 1px solid;
+    height: 50px;
+    text-align: center;
+    width: 33.3%;
+}
+.w28p{
+    width: 28%;
+}
+.w60p{width: 60%;
+}
+.w40p{ width: 40%;
+}
+.w72p{
+    width: 72%;}
+.table1{
+    width: 75%;
+}
+.table2{
+    width: 80%;}
+.table3{
+        width: 90%;}
+.h200{
+    height: 200px;
+}
+.ctr{
+    text-align: center;
+}
